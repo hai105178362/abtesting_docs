@@ -26,14 +26,14 @@
    
 ### 步骤4：定位受众群体。
 
-    1. 点击“添加受众规则”。
+   1. 点击“添加受众规则”。
      
-    ![点击添加受众规则](images/click_add_audience_rule.jpg)
+   ![点击添加受众规则](images/click_add_audience_rule.jpg)
      
-    2. 选择定位受众的规则，可以从设备，屏幕大小等定位。可以选择多个规则。
+   2. 选择定位受众的规则，可以从设备，屏幕大小等定位。可以选择多个规则。
      
-    ![配置受众规则](images/setup_audience_rule.jpg)
+   ![配置受众规则](images/setup_audience_rule.jpg)
 
-    ![受众规则](images/audience_rule_list.jpg)
+   ![受众规则](images/audience_rule_list.jpg)
 
 ### 步骤5：设定实验目标
