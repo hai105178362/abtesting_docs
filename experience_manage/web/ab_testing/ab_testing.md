@@ -18,6 +18,22 @@
 
    2. 添加变体后，单击“变体布局”。会自动跳到可视编辑器中打开编辑器页面。
 
-   ![点击变体布局](images/click_layout_variant_page.jpg)
-    
-   ![跳转到变体页面](images/goto_layout_variant_page.jpg)
+   ![点击编辑变体布局](images/click_layout_variant_page.jpg)
+   
+   3. 在编辑器页面更改要素，比如改变照片和字体大小等。
+   
+   ![编辑变体布局](images/edit_variant_page_layout.jpg)
+   
+### 步骤4：定位受众群体。
+
+     1. 点击“添加受众规则”。
+     
+     ![点击添加受众规则](images/click_add_audience_rule.jpg)
+     
+     2. 选择定位受众的规则，可以从设备，屏幕大小等定位。可以选择多个规则。
+     
+     ![配置受众规则](images/setup_audience_rule.jpg)
+
+     ![受众规则](images/audience_rule_list.jpg)
+
+### 步骤5：设定实验目标
