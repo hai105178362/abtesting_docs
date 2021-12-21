@@ -10,10 +10,14 @@
   
 ### 步骤3：制作网站的变体
 
-    1. 点击“增加变体”。填写变体的名称，然后单击“完成”。
+   1. 点击“增加变体”。填写变体的名称，然后单击“完成”。
     
-    ![输入实验基本信息](images/click_add_variant.jpg)
+   ![点击增加变体](images/click_add_variant.jpg)
     
-    ![输入实验基本信息](images/input_variant_name.jpg)
+   ![输入变体名称](images/input_variant_name.jpg)
 
-    2. 点击“增加变体”。填写变体的名称，然后单击“完成”。
+   2. 添加变体后，单击“编辑变体”。会自动跳到可视编辑器中打开编辑器页面。
+
+   ![点击编辑变体](images/click_edit_variant_page.jpg)
+    
+   ![跳转到编辑页面](images/goto_variant_page.jpg)
