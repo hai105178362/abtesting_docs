@@ -22,6 +22,6 @@
   
    ![输入应用名称](create_app_name.jpg)
    
-    ![完成应用创建](create_app_success.jpg)
+   ![完成应用创建](create_app_success.jpg)
 
 ### 成员管理
