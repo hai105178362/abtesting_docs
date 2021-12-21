@@ -40,15 +40,15 @@
   
    总共可以设置两类实验目标，主要指标及附加指标，有且只有一个主要指标，附加指标可选最多3个。
    
-    ![受众规则](images/target.jpg)
+   ![受众规则](images/target.jpg)
     
    1. 点击“添加主要指标”，设置指标名称，设置指标及计算公式;
 
-   ![受众规则](images/audience_rule_list.jpg)
+   ![受众规则](images/target_mainly.jpg)
     
    2. 点击“添加主要指标”，设置指标名称，设置指标及计算公式;
 
-   ![受众规则](images/audience_rule_list.jpg)
+   ![受众规则](images/target_attached.jpg)
       
     
     
