@@ -16,8 +16,8 @@
     
    ![输入变体名称](images/input_variant_name.jpg)
 
-   2. 添加变体后，单击“编辑变体”。会自动跳到可视编辑器中打开编辑器页面。
+   2. 添加变体后，单击“变体布局”。会自动跳到可视编辑器中打开编辑器页面。
 
-   ![点击编辑变体](images/click_edit_variant_page.jpg)
+   ![点击变体布局](images/click_layout_variant_page.jpg)
     
-   ![跳转到编辑页面](images/goto_variant_page.jpg)
+   ![跳转到变体页面](images/goto_layout_variant_page.jpg)
