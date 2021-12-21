@@ -2,7 +2,7 @@
 
 ### 创建容器
 
-  1. 登录到https://xxxx.com/abtesting/home/  ,可以进入AB测试的的主界面；
+  1. 登录到 https://smarttest-test.pingan.com/ ,可以进入AB测试的的主界面；
   2. 点击《创建容器》；
   3. 输入一个容器名称；
   4. 点击创建；
