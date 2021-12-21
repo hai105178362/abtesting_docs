@@ -9,7 +9,7 @@
   
   > 注：容器可以理解为一个项目空间，一个容器可以创建多个应用。
 
-  ![创建容器](create_container.jpeg)
+  ![创建容器](create_container.JPG)
 
 ### 创建应用
   1. 在AB测试的的主界面；
