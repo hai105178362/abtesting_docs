@@ -14,11 +14,10 @@
    
    1. 用户数据，存储有关用户的元数据，这可能包括年龄、性别或会员资格等信息。
   
-   > 导入的数据必须包括**USER_ID**字段，导入后自动根据数据识别生成schema，如下，后续将允许用户手动配置。
+   > 用户数据必须包括USER_ID字段，且至少需要一个元数据字段（如AGE），最多可以添加 5 个元数据字段。导入后自动根据数据识别生成schema，如下，后续将允许用户手动配置。
    
    ```
    {
-     "type": "record",
      "name": "Users",
      "namespace": "com.pingan.gbd.personalize.schema",
      "fields": [
@@ -41,9 +40,45 @@
    
    ```
 
-   2. 商品数据
-
-
+   2. 商品数据，带推荐的商品。
+   
+   > 每个商品提供一个商品编号**ITEM_ID**，且至少需要一个元数据字段,您最多可添加 50 个元数据字段。同理，导入后自动根据数据识别生成schema，如下，后续将允许用户手动配置。
+   
+   ```   
+   {
+     "name": "Items",
+     "namespace": "com.pingan.gbd.personalize.schema",
+     "fields": [
+       {
+         "name": "ITEM_ID",
+         "type": "string"
+       },
+       {
+         "name": "BRAND",
+         "type": [
+           "null",
+           "string"
+         ],
+         "categorical": true
+       },
+       {
+         "name": "MANUFACTUR_DATE",
+         "type": "long"
+       },
+       {
+         "name": "DESCRIPTION",
+         "type": [
+           "null",
+           "string"
+         ],
+         "textual": true
+       },
+     ],
+     "version": "1.0"
+   }
+   ```
+   
+   
 ### 步骤3：创建模型
 
    1. 点击"创建模型"按钮，输入模型名称、选择模型类型及业务目标；
