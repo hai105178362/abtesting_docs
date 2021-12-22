@@ -78,7 +78,7 @@
      
 ### 步骤7：开启实验
 
-  ![受众规则](images/split_test_start.jpg)
+  ![受众规则](images/full_stack_start.jpg)
   
   
 #### 实验运行多长时间？
