@@ -44,7 +44,9 @@
 ### 步骤2：实现功能标志
 
    参考样例代码，实现功能标志；
-           
+   
+   ![样例代码](images/feature_flag_example_code.jpg)
+   
 ### 步骤3： 发布Feature
 
    ![发布Feature](images/feature_start.jpg)
