@@ -6,23 +6,31 @@
   
 ### 步骤2：填写实验名称，实验网页的URL，填写完成后，点击“创建“。
 
-  ![输入实验基本信息](images/split_test_new_dialog.jpg)
+  ![输入实验基本信息](images/full_stack_new_code_dialog.jpg)
   
 ### 步骤3：制作网站的变体
 
-   1. 点击“增加参数”。填写变体的参数名及值，然后单击“确定”。
+   1. 点击“增加参数”。填写变体的参数名及默认值，然后单击“确定”。
      
-   ![输入变体名称](images/split_test_new_variant_dialog.jpg)
+   ![点击增加参数](images/full_stack_add_feature_flag_params.jpg)
    
-   ![变体列表](images/split_test_variant_list.jpg)
+   ![参数列表](images/full_stack_feature_flag_param_list.jpg)
 
    2. 根据需要重复上述步骤。
    
    3. 点击“变体”，切换到变体页；
+   
+   ![变体页](images/full_stack_variant_control.jpg)
 
    4. 点击“增加变体”，输入变体名，点击“确定”；
+   
+   ![变体页](images/full_stack_add_variant.jpg)
 
    5. 点击“编辑参数”，修改参数值;
+
+   ![变体页](images/full_stack_click_edit_feature_flag_param.jpg)
+   
+   ![变体页](images/full_stack_edit_feature_flag_param.jpg)
    
    6. 根据需要重复上述步骤。
    
