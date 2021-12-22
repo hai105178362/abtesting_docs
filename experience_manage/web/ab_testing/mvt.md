@@ -1,4 +1,4 @@
-## 可视化创建多变量测试（multivariate test-MVT）
+## 创建多变量测试（multivariate test-MVT）
 
 ### 步骤1：点击应用名称，然后点击“创建实验”，下拉选择多变量测试
 
