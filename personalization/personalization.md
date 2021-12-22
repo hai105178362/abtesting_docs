@@ -126,6 +126,7 @@
 
    
    1. 如需获取推荐，请向 predict REST 方法发出 POST 请求， PLACEMENT_ID 替换为实际投放的ID，并提供相应的请求正文将：
+
    ```
    curl -X POST \
     --data  '{
