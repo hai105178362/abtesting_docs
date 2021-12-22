@@ -146,7 +146,7 @@
    
    {
      "results": [{"id": "sample-id-1"}, {"id": "sample-id-2"}],
-     "recommend_id": "sample-recommend_id"
+     "recommendation_id": "sample-recommendation_id"
    }
    
    ```
