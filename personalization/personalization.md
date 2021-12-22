@@ -11,7 +11,37 @@
    ![创建推荐](images/personalize_set.jpg)
 
 ### 步骤2：导入数据
+   
+   1. 用户数据，存储有关用户的元数据，这可能包括年龄、性别或会员资格等信息。
+  
+   > 导入的数据必须包括**USER_ID**字段，导入后自动根据数据识别生成schema，如下，后续将允许用户手动配置。
+   
+   ```
+   {
+     "type": "record",
+     "name": "Users",
+     "namespace": "com.pingan.gbd.personalize.schema",
+     "fields": [
+       {
+         "name": "USER_ID",
+         "type": "string"
+       },
+       {
+         "name": "AGE",
+         "type": "int"
+       },
+       {
+         "name": "GENDER",
+         "type": "string",
+         "categorical": true
+       }
+     ],
+     "version": "1.0"
+   }
+   
+   ```
 
+   2. 商品数据
 
 
 ### 步骤3：创建模型
