@@ -53,9 +53,8 @@
 
 ### 步骤5： 实现个性化推荐
 
-   参考样例代码，实现个性化推荐。
    
-   如需获取推荐，请向 predict REST 方法发出 POST 请求， PLACEMENT_ID 替换为实际投放的ID，并提供相应的请求正文将：
+   1. 如需获取推荐，请向 predict REST 方法发出 POST 请求， PLACEMENT_ID 替换为实际投放的ID，并提供相应的请求正文将：
    ```
    curl -X POST \
     --data  '{
@@ -67,5 +66,16 @@
               }
             }' \
    https://smartest-test.pingan.com/api/splitter/placements/PLACEMENT_ID
+   
+   ```
+   
+   2. 您应该会看到如下所示的结果：
+
+   ```
+   
+   {
+     "results": [{"id": "sample-id-1"}, {"id": "sample-id-2"}],
+     "recommend_id": "sample-recommend_id"
+   }
    
    ```
