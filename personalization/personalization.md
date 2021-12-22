@@ -24,20 +24,20 @@
    
    ![查看模型详情](images/personalize_click_view_model_detail.jpg)
 
-   ![模型详情(images/personalize_model_detail_panel.jpg)
+   ![模型详情](images/personalize_model_detail_panel.jpg)
    
 ### 步骤4: 创建投放
 
    1. 点击“创建投放”，输入投放名称，选择推荐的模型及版本；
    
-   ![创建投放(images/personalize_placement_create_dialog.jpg)
+   ![创建投放](images/personalize_placement_create_dialog.jpg)
    
     
    2. 等待模型变为"可供查询",点击"查看详情",可以查看投放是否可用；
    
-   ![点击查看投放详情(images/personalize_placement_click_view.jpg)
+   ![点击查看投放详情](images/personalize_placement_click_view.jpg)
    
-   ![投放详情(images/personalize_placement_detail.jpg)
+   ![投放详情](images/personalize_placement_detail.jpg)
    
     
    3. 预览推荐，模型准备好后；
@@ -48,7 +48,7 @@
        
        3.3 点击“推荐预览”，即可在页面查看推荐商品列表。
        
-       ![预览推荐(images/personalize_placement_preview.jpg)
+       ![预览推荐](images/personalize_placement_preview.jpg)
        
 
 ### 步骤5： 实现个性化推荐
