@@ -31,15 +31,15 @@
    
    6. 定义每个变体的发布范围及默认发布范围，点击添加发布范围，输入范围及受众规则；
     
-    ![发布范围](images/feature_roll_dialog.jpg)
+   ![发布范围](images/feature_roll_dialog.jpg)
     
-    ![发布范围](images/feature_roll_list.jpg)
+   ![发布范围](images/feature_roll_list.jpg)
     
    7. 设置目标受众比例；
     
-    ![发布流量](images/feature_traffic.jpg)
+   ![发布流量](images/feature_traffic.jpg)
     
-    > 发布的流量比例范围为0.01%到100%。
+   > 发布的流量比例范围为0.01%到100%。
 
 ### 步骤2：实现功能标志
 
@@ -57,8 +57,8 @@
    
    2. 发布后也点击”Feature回滚“实现Feature回滚；
 
-    ![回滚Feature](images/feature_roll_back.jpg)
+   ![回滚Feature](images/feature_roll_back.jpg)
     
-    ![回滚Feature后](images/feature_roll_back_success.jpg)
+   ![回滚Feature后](images/feature_roll_back_success.jpg)
 
 
