@@ -22,8 +22,10 @@
 ### 第五部分 [Feature管理](experience_manage/full_stack/feature_flag.md)
 
 
-### 第六部分 实验工能
+### 第六部分 实验性功能
     
+   这些功能处于开发的早期或中期阶段。 这种策略让我们能够在开发功能时获得相应的反馈，这有助于我们详细了解您希望在最终产品中看到的功能。
+   
    1. [多臂老虎机](mab/multi-armed_bandit.md)
    2. [情景老虎机](mab/contextual_multi-armed_bandit.md)
    3. [个性化推荐](personalization/personalization.md)
