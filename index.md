@@ -24,8 +24,8 @@
 
 ### 第六部分 实验工能
     
-   1. [多臂老虎机](mab/multi-armed_bandit.md.md)
-   2. [情景老虎机](mab/contextual_multi-armed_bandit.md.md)
+   1. [多臂老虎机](mab/multi-armed_bandit.md)
+   2. [情景老虎机](mab/contextual_multi-armed_bandit.md)
    3. [个性化推荐](personalization/personalization.md)
 
 ### 第七部分 [报告解读](report/report.md)
